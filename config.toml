@@ -1,4 +1,4 @@
-baseURL = 'https://bv-hoehenrian.de'
+baseURL = 'https://bv-hoehenrain.de/'
 languageCode = 'de-de'
 paginate = 6
 theme= "coHub"
