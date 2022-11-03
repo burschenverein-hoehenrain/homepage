@@ -42,15 +42,12 @@ title = 'BV Höhenrain e. V.'
   contactLink = "contact"
   copyright = "© {year} <a href=\"https://bv-hoehenrain.de/\" target=\"_blank\">BV Höhenrain e.V.</a>"
   fabFormURL =  "https://fabform.io/f/Nfw3e7W"
-  #googleAnalytics = ""
   logo = "images/logo.png"
-  footerlogo = "images/logo.png"
-  #footerDescription = ""
+  footerlogo = "images/logo-footer.png"
 
   [params.address]
   address = "BV Höhenrain e. V. <br> c/o Maximilian Haberl <br> Am Bichl 5 <br> 82335 Bachhauser Wies"
   email = "vorstand@bv-hoehenrain.de"
-  #phone = ""
   openingDesc = "Wenn du Lust auf eine tolle Gemeinschaft und auf geile Erlebnisse hast, würden wir uns auf deine Nachricht freuen!"
   openingHours = "Mia gfrein uns auf Di!"
 
