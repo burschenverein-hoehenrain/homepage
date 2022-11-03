@@ -1,0 +1,79 @@
+baseURL = 'https://bv-hoehenrian.de'
+languageCode = 'de-de'
+paginate = 6
+theme= "coHub"
+title = 'BV Höhenrain e. V.'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Über Uns"
+  url= "#"
+  weight = 1
+  [[menu.Main]]
+  name = "Highlights"
+  url= "#"
+  weight = 1
+  [[menu.Main]]
+  name = "Veranstaltungen"
+  url= "#"
+  weight = 3
+  [[menu.Main]]
+  name = "Geschichte"
+  url= "#"
+  weight = 4
+  [[menu.Main]]
+  name = "Kontakt"
+  url= "/contact/"
+  weight = 5
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Datenschutzerklärung"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Impressum"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} <a href=\"https://bv-hoehenrain.de/\" target=\"_blank\">BV Höhenrain e.V.</a>"
+  fabFormURL =  "https://fabform.io/f/Nfw3e7W"
+  #googleAnalytics = ""
+  logo = "images/logo.png"
+  footerlogo = "images/logo.png"
+  #footerDescription = ""
+
+  [params.address]
+  address = "BV Höhenrain e. V. <br> c/o Maximilian Haberl <br> Am Bichl 5 <br> 82335 Bachhauser Wies"
+  email = "vorstand@bv-hoehenrain.de"
+  #phone = ""
+  openingDesc = "Wenn du Lust auf eine tolle Gemeinschaft und auf geile Erlebnisse hast, würden wir uns auf deine Nachricht freuen!"
+  openingHours = "Mia gfrein uns auf Di!"
+
+  [params.map]
+  APIkey = "AIzaSyA1r-5FU_4kjDnffjP7TjZZ3kjylclreJk"
+  latitude = "47.946990977290746"
+  longitude = "11.39905017142037" 
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://instagram.com/bv_hearoa"
+  weight = 1
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://facebook.com/bvhoehenrain"
+  weight = 2
+  [[params.social]]
+  icon = "ti-email"
+  url = "mailto:vorstand@bv-hoehenrain.de"
+  weight = 3
+  [[params.social]]
+  icon = "ti-world"
+  url = "https://bv-hoehenrain.de"
+  weight = 4
