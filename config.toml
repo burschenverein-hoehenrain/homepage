@@ -8,19 +8,19 @@ title = 'BV Höhenrain e. V.'
   # Main Menu
   [[menu.Main]]
   name = "Über Uns"
-  url= "#"
+  url= "#gallery"
   weight = 1
   [[menu.Main]]
   name = "Highlights"
-  url= "#"
-  weight = 1
+  url= "#service"
+  weight = 2
   [[menu.Main]]
   name = "Veranstaltungen"
-  url= "#"
+  url= "#blog"
   weight = 3
   [[menu.Main]]
   name = "Geschichte"
-  url= "#"
+  url= "#faq"
   weight = 4
   [[menu.Main]]
   name = "Kontakt"
@@ -43,7 +43,7 @@ title = 'BV Höhenrain e. V.'
   copyright = "© {year} <a href=\"https://bv-hoehenrain.de/\" target=\"_blank\">BV Höhenrain e.V.</a>"
   fabFormURL =  "https://fabform.io/f/Nfw3e7W"
   logo = "images/logo.png"
-  footerlogo = "images/logo-footer.png"
+  footerlogo = "images/logo.png"
 
   [params.address]
   address = "BV Höhenrain e. V. <br> c/o Maximilian Haberl <br> Am Bichl 5 <br> 82335 Bachhauser Wies"

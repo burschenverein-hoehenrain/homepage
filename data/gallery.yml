@@ -1,12 +1,21 @@
 ---
-title : "Take a look at Our Exibhition"
+title : "Über uns"
 enable: true
 subtitle: >
-        We are the world’s largest provider of flexible workspace solutions,
-        with customers including some of the most successful entrepreneurs
+        Servus und herzlich Willkommen auf der Internetseite vom Burschenverein Höhenrain e. V.. 
+        Hier erfährst du alles Wichtige über unseren Verein sowie über zukünftige Veranstaltungen 
+        und Unternehmungen.
 galleryImage: 
- - image: "images/gallery/gallery01.jpg"
- - image: "images/gallery/gallery02.jpg"
- - image: "images/gallery/gallery03.jpg"
- - image: "images/gallery/gallery04.jpg"
+ - image:
+        url : "images/gallery//mitglieder-2022.jpg"
+        title: "Unsere Mitglider:innen beim \"Back to Rock im Fuiz\" 2022"
+ - image: 
+        url: "https://placeimg.com/1000/667/any"
+        title: Title03
+ - image:
+        url: "images/gallery/vorstandschaft.jpg"
+        title: "Unsere aktuelle Vorstandschaft"
+ - image: 
+        url: "https://placeimg.com/1000/667/any"
+        title: Title04
 ---
