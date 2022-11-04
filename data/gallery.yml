@@ -6,12 +6,12 @@ subtitle: >
         Hier erfährst du alles Wichtige über unseren Verein sowie über zukünftige Veranstaltungen 
         und Unternehmungen.
 galleryImage: 
- - image:
-        url : "images/gallery//mitglieder-2022.jpg"
-        title: "Unsere Mitglider:innen beim \"Back to Rock im Fuiz\" 2022"
  - image: 
-        url: "https://placeimg.com/1000/667/any"
-        title: Title03
+        url: "images/gallery/burschenspiele-2022.jpg"
+        title: "Die Sieger der Burschenspiele 2022 der Gemeinde Berg"
+ - image:
+        url : "images/gallery/mitglieder-2022.jpg"
+        title: "Unsere Mitglider:innen beim \"Back to Rock im Fuiz\" 2022"
  - image:
         url: "images/gallery/vorstandschaft.jpg"
         title: "Unsere aktuelle Vorstandschaft"

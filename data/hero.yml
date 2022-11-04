@@ -2,7 +2,7 @@
 enable: true
 title : "<h1>Burschenverein Höhenrain e. V.</h1>"
 subtitle: Willkommen auf unserer Website
-heroBGimg: "https://placeimg.com/1000/661/any"
+heroBGimg: "images/gallery//mitglieder-2022.jpg"
 heroVideo : "https://cdn.videvo.net/videvo_files/video/premium/video0449/small_watermarked/295%20-%20Animated%20Horizontal%20Brush%20Strokes%20Pack_672_Brush_23_preview.webm"
 herosVideoDesc: "<span>Der <strong>BV</strong> in 30 Sekunden</span>"
 ---
