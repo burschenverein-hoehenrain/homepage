@@ -1,38 +1,22 @@
 ---
 enable: true
 title: "Highlights"
-subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+subtitle: Wir möchten die dörfliche Gemeinschaft der Jugend stärken und die Brauchtümer erhalten.
 services:
-  - name: "largest Network"
+  - name: "Gemeinschaft"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                Uns liegt es am Herzen, jeden mit einzubeziehen, egal ob jung oder alt. In unserem 
+                Verein kommen wir mehrmals im Jahr zusammen um genau diese Gemeinschaft zu stärken.
     icon: "ti-infinite"
+  - name: "Veranstaltungen"
+    description: >
+                Also örtlicher Verein ist es wichtig, gemeinsam etwas zu erreichen. Deshalb freuen 
+                wir uns immer auf Veranstaltungen welche wir entweder selber veranstaltungen oder 
+                einfach nur genießen
+    icon: "ti-view-grid"
   - name: "Dedicated Account Manager"
     description: >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
                 Dicta maxime ullam quos sapiente eveniet odio accusamus.
     icon: "ti-help-alt"
-  - name: "Easy Payment"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
 ---
