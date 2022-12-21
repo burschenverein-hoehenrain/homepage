@@ -5,18 +5,11 @@ subtitle: >
         Servus und herzlich Willkommen auf der Internetseite vom Burschenverein Höhenrain e. V.. 
         Hier erfährst du alles Wichtige über unseren Verein sowie über zukünftige Veranstaltungen 
         und Unternehmungen.
-galleryImage: 
+galleryImage:
        - image:
-              url: "images/gallery/vorstandschaft.jpg"
-              title: "Unsere aktuelle Vorstandschaft"
+              url : "images/gallery/wasserfall.jpg"
+              title: "Auch bei der Veranstaltung Back to \"Rock im Fuiz\" ist der legendäre Wasserfall am Start"
        - image: 
-              url: ""
-              title: ""
-       - image:
-              url : ""
-              title: ""
- 
-       - image: 
-              url: ""
-              title: ""
+              url: "images/gallery/party.jpg"
+              title: "Egal bei welcher Veranstaltung - beim BV Höhenrain e. V. kommt das Feieren nie zu kurz"
 ---

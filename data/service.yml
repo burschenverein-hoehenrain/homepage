@@ -14,9 +14,10 @@ services:
                 wir uns immer auf Veranstaltungen, welche wir entweder selber veranstalten oder 
                 einfach nur genießen.
     icon: "ti-view-grid"
-  - name: "Dedicated Account Manager"
+  - name: "Bewährtes Wahren und Neues Wagen"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
+                Neben lustigen Vereinsausflügen, modernen Festen und der Unterstützung anderer Vereine
+                pflegt und bewahrt der Burschenverein unsere bayrische Tradition, welche durch Tanz,
+                Mundart und Gwand zur Geltung kommt.
+    icon: "ti-world"
 ---
