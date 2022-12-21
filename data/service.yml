@@ -10,7 +10,7 @@ services:
     icon: "ti-infinite"
   - name: "Veranstaltungen"
     description: >
-                Also örtlicher Verein ist es wichtig, gemeinsam etwas zu erreichen. Deshalb freuen 
+                Als örtlicher Verein ist es wichtig, gemeinsam etwas zu erreichen. Deshalb freuen 
                 wir uns immer auf Veranstaltungen, welche wir entweder selber veranstalten oder 
                 einfach nur genießen.
     icon: "ti-view-grid"
