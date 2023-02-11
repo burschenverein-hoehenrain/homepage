@@ -20,12 +20,12 @@ Kontaktformular:
 
 ## Vertretungsberechtigte Personen
 Vertretungsberechtigt:  
-Maximilian Haberl (1. Vorsitzender)  
-Thomas Griesbeck (stv. Vorsitzender)  
-Michael Fuchs (1. Schriftführer)  
-Andrea Buchner (2. Schriftführerin)  
-Christopher Rößner (1. Kassier)  
-Jana Diehl (2. Kassiererin) 
+Maximilian Haberl (Vorsitzender)  
+Alfred Oberpriller (stv. Vorsitzender)  
+Lisa Diehl (1. Schriftführerin)  
+Regina Klostermeier (2. Schriftführerin)  
+Teresa Griesbeck (1. Kassierin)  
+Julia Pallauf (2. Kassiererin) 
 
 ## Register und Registernummer
 Vereinsregister  
