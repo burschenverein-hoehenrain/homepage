@@ -22,10 +22,10 @@ Kontaktformular:
 Vertretungsberechtigt:  
 Maximilian Haberl (Vorsitzender)  
 Alfred Oberpriller (stv. Vorsitzender)  
-Lisa Diehl (1. Schriftführerin)  
-Regina Klostermeier (2. Schriftführerin)  
-Teresa Griesbeck (1. Kassierin)  
-Julia Pallauf (2. Kassiererin) 
+Lisa Diehl (Schriftführerin)  
+Regina Klostermeier (stv. Schriftführerin)  
+Teresa Griesbeck (1. Kassiererin)  
+Julia Pallauf (stv. Kassiererin) 
 
 ## Register und Registernummer
 Vereinsregister  
