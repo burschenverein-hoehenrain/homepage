@@ -24,7 +24,7 @@ Maximilian Haberl (Vorsitzender)
 Alfred Oberpriller (stv. Vorsitzender)  
 Lisa Diehl (Schriftführerin)  
 Regina Klostermeier (stv. Schriftführerin)  
-Teresa Griesbeck (1. Kassiererin)  
+Teresa Griesbeck (Kassiererin)  
 Julia Pallauf (stv. Kassiererin) 
 
 ## Register und Registernummer
